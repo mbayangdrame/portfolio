@@ -1,0 +1,79 @@
+.realisation{
+    display: flex;
+    gap: 20px;
+    margin-left: 336px;
+    margin-right: 336px;
+    margin-top: 20px;
+}
+
+.realisation-item {
+    border-radius: 12px;
+    padding: 14px 12px;
+    border-color: #545454 !important;
+    /* border-color: red; */
+    background-color: #F8F8F8;
+}
+.mesProjets {
+    margin-top: 60px;
+    margin-bottom: 30px;
+}
+.projets p {
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-size: 21px;
+    text-align: center;
+    color: #000000;
+}
+.btn-outline-secondary {
+    color: #000000;
+}
+.btn-outline-secondary:hover {
+    color: #fff;
+    background-color: #6117EA;
+}
+.techno-utilise {
+    margin-left: 191px;
+}
+.techno p {
+    text-align: center;
+}
+.nosTechnolo {
+    margin-top: 60px;
+}
+
+.realisation {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+.btn {
+    margin: 0 10px;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+.content-section {
+    display: none; /* Masque toutes les sections par défaut */
+    /* padding: 20px;
+    border: 1px solid #ccc;
+    margin-bottom: 20px; */
+}
+
+#content-container {
+    text-align: center;
+}
+.flyers {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+.flyers img {
+    width: 400px;
+    height: 550px;
+    object-fit: cover;
+}
+.iudesign {
+    display: flex;
+    gap: 20px;
+    height: 800px;
+}

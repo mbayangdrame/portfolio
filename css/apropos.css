@@ -1,0 +1,16 @@
+.apropos {
+    /* margin-top: 60px; */
+    
+}
+.propos {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    margin-top: 60px;
+}
+.apropos-title h2 {
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    font-size: 65px;
+    color: #000000;
+    margin-bottom: 20px;
+}

@@ -1,0 +1,69 @@
+.navbar-brand img {
+    width: 100px;
+    height: 100px;
+}
+.header-item {
+    justify-content: flex-end;
+}
+.nav-link {
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-size: 21px;
+    color: #000000;
+    gap: 26px;
+}
+.jumbo-section {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+.jumbo-title {
+    margin-top: 60px;
+}
+.jumbo-title h4 {
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    font-size: 24px;
+    color: #000000;
+}
+.jumbo-title h3 {
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    font-size: 32px;
+    color: #6117EA;
+    margin-top: 6px;
+}
+.jumbo-title h1 {
+    font-family: "Poppins", sans-serif;
+    font-weight: 700;
+    font-size: 96px;
+    color: #000000;
+    margin-top: 6px;
+}
+.design {
+    margin-left: 230px;
+}
+.jumbo-title p {
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    color: #000000;
+    margin-top: 30px;
+}
+.telecharger {
+    padding: 14px 12px;
+    color: #fff;
+    background-color: #6117EA;
+    border-radius: 8px;
+}
+.jumbo-image img {
+    object-fit: cover;
+}
+.reseaux-sociau {
+    margin-top: 30px;
+    display: flex;
+    /* grid-template-columns: 1fr 1fr 1fr 1fr; */
+    gap: 20px;
+}
+.icone-item:hover {
+    color: #6117EA;
+}
